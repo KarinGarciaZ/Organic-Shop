@@ -10,7 +10,7 @@ export const environment = {
     authDomain: "organicshop-2f71e.firebaseapp.com",
     databaseURL: "https://organicshop-2f71e.firebaseio.com",
     projectId: "organicshop-2f71e",
-    storageBucket: "",
-    messagingSenderId: "259937259717"
+    storageBucket: "organicshop-2f71e.appspot.com",
+    messagingSenderId: "259937259717"  
   }
 };
